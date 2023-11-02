@@ -1,0 +1,25 @@
+
+body{
+
+    background-image: url('usimg1.png');
+    flex-wrap: wrap;
+    
+}
+h1{
+    color: antiquewhite;
+ 
+}
+h2{
+    color: rgb(246, 206, 151);
+
+
+   
+}
+
+button{
+    font-size:x-large;
+}
+
+.min{
+    color: rgba(255, 217, 0, 0.379);
+}

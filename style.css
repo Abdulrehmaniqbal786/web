@@ -1,0 +1,78 @@
+.navbar {
+    /* background-color:hsl(9, 100%, 64%) !important; */
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4UlxwxcKlz3RwpRHI2DCNamH1O6HYdpUbXw&usqp=CAU');
+    font-size: small !important;
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+  
+}
+
+.card1,.card2,.card3{
+     background-color: gray;
+    box-shadow: 10px 10px 15px rgb(153, 145, 145);
+    border: 20px solid rgb(7, 2, 2);
+    border-radius: 30px;
+    margin-top: 10px;
+    
+
+}
+.mainCard{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+
+body{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4UlxwxcKlz3RwpRHI2DCNamH1O6HYdpUbXw&usqp=CAU');
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.LOCAL,.MAIN{
+margin-top:50px ;
+margin-bottom:10px;
+font-weight: bolder;
+}
+
+.nav-item,.nav-link{
+    font-weight:bolder ;
+    font-size: larger;
+   color: rgb(51, 51, 168);
+}
+.col{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
